@@ -10,7 +10,7 @@ echo "Bienvenue, $USER !"
 alias ls='ls --color=auto'
 alias lsla='ls -l -a'
 alias grep='grep --color=auto'
-alias grepc='grep --color=green'
+alias grepc='grep --color=always'
 alias c='clear'
 
 creerdossier() {
